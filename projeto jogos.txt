@@ -1,0 +1,10 @@
+projeto jogos
+
+
+Funcionalidades adicionais e ideias
+1-carrossel de destaques
+2-paginas de noticias dos games.
+
+2-comentarios e reações   permitir que os usuarios comentem nas noticias,e utilizem reações.
+(curtir,amar,surprendido).
+3-compartilhamento social:botões para compartilhar nas redes socias:facebook,tik tok,instagram.
